@@ -1,6 +1,6 @@
 Hi there, my name is [George](https://georgeprofile.netlify.app/)! 👋
 
-I'm currently interested in web development. I love working with HTML/CSS (Sass/SCSS), JavaScript (jQuery/AJAX technologies/Vue), and PHP (Laravel). Also, I enjoy doing some [designs](https://figma.com/@rofl/) (UX/UI).
+I'm currently interested in web development. I love working with HTML/CSS (Sass/Scss), JavaScript (jQuery/AJAX/Vue), and PHP (Laravel). Also, I enjoy doing some [designs](https://figma.com/@rofl/) (UX/UI).
 
 At present, I am working on my diploma project and some mini projects involving various languages. I also enjoy using JetBrains IDEs (Like WebStorm, PhpStorm and so on).
 

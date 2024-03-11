@@ -1,4 +1,4 @@
-Hi there, my name is [George](https://georgeprofile.netlify.app/)! 👋
+Hi there, my name is George! 👋
 
 I'm currently interested in web development. I love working with HTML/CSS (Sass/Scss), JavaScript (jQuery/AJAX/Vue), and PHP (Laravel). Also, I enjoy doing some [designs](https://figma.com/@rofl/) (UX/UI).
 

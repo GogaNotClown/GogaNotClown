@@ -7,7 +7,6 @@ At present, I am working on my diploma project and some mini projects involving 
 In the past, I developed Discord Bots using JavaScript and the discord.js library. Maybe someday I will upload them to GitHub.
 
 Some of my public repos:
-- [GeorgeProfile](https://github.com/GogaNotClown/GeorgeProfile)
 - [PersonalSpace](https://github.com/GogaNotClown/PersonalSpace)
 - [accordion](https://github.com/GogaNotClown/accordion)
 - [http-cats](https://github.com/GogaNotClown/http-cats)

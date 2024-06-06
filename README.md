@@ -4,9 +4,10 @@ I'm currently interested in web development. I love working with HTML/CSS (Sass/
 
 At present, I am working on my diploma project and some mini projects involving various languages. I also enjoy using JetBrains IDEs (Like WebStorm, PhpStorm and so on).
 
-In the past, I developed Discord Bots using JavaScript and the discord.js library. Maybe someday I will upload them to GitHub.
+In the past, I developed Discord Bots using JavaScript and the discord.js library.
 
 Some of my public repos:
+- [greg_bot](https://github.com/GogaNotClown/greg_bot)
 - [PersonalSpace](https://github.com/GogaNotClown/PersonalSpace)
 - [accordion](https://github.com/GogaNotClown/accordion)
 - [http-cats](https://github.com/GogaNotClown/http-cats)

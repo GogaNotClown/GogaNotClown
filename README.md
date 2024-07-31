@@ -1,12 +1,13 @@
 Hi there, my name is George! 👋
 
-I'm currently interested in web development. I love working with HTML/CSS (Sass/Scss), JavaScript (jQuery/AJAX/Vue), and PHP (Laravel). Also, I enjoy doing some [designs](https://figma.com/@rofl/) (UX/UI).
+I'm currently passionate about web development and love working with HTML/CSS (Sass/Scss), JavaScript (jQuery/AJAX/Vue), and PHP (Laravel). Also, I enjoy doing some [designs](https://figma.com/@rofl/) (UX/UI).
 
-At present, I am working on my diploma project and some mini projects involving various languages. I also enjoy using JetBrains IDEs (Like WebStorm, PhpStorm and so on).
+At present, I'm working at the company as a software engineer. I also enjoy using JetBrains IDEs like WebStorm and PhpStorm.
 
-In the past, I developed Discord Bots using JavaScript and the [discord.js](https://discord.js.org/) library.
+Previously, I developed Discord Bots using JavaScript and the [discord.js](https://discord.js.org/) library.
 
-Some of my public repos:
+Here are some of my public repositories:
+
 - [greg_bot](https://github.com/GogaNotClown/greg_bot)
 - [PersonalSpace](https://github.com/GogaNotClown/PersonalSpace)
 - [accordion](https://github.com/GogaNotClown/accordion)

@@ -2,7 +2,7 @@ Hi there, my name is George! 👋
 
 I'm currently passionate about web development and love working with HTML/CSS (Sass/Scss), JavaScript (jQuery/AJAX/Vue), and PHP (Laravel). Also, I enjoy doing some [designs](https://figma.com/@rofl/) (UX/UI).
 
-At present, I'm working at the company as a software engineer. I also enjoy using JetBrains IDEs.
+At present, I'm working at the company as a software engineer. I also enjoy using [JetBrains](https://www.jetbrains.com/) IDEs.
 
 Previously, I developed Discord Bots using JavaScript and the [discord.js](https://discord.js.org/) library.
 

@@ -8,6 +8,7 @@ Previously, I developed Discord Bots using JavaScript and the [discord.js](https
 
 Here are some of my public repositories:
 
+- [GogaNotClownProfile](https://github.com/GogaNotClown/GogaNotClownProfile)
 - [greg_bot](https://github.com/GogaNotClown/greg_bot)
 - [PersonalSpace](https://github.com/GogaNotClown/PersonalSpace)
 - [accordion](https://github.com/GogaNotClown/accordion)

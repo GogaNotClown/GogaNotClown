@@ -14,3 +14,5 @@ Here are some of my public repositories:
 - [accordion](https://github.com/GogaNotClown/accordion)
 - [http-cats](https://github.com/GogaNotClown/http-cats)
 - [PersonalWeb](https://github.com/GogaNotClown/PersonalWeb)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hn3mlaratd4wy5tcfipv7t3xva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)

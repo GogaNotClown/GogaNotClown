@@ -30,4 +30,6 @@ Here are some of my public repositories:
 - [PersonalSpace](https://github.com/GogaNotClown/PersonalSpace) - default html / css (tailwindcss - daisyUI) / js
 - [accordion](https://github.com/GogaNotClown/accordion) - default html / css / js
 - [http-cats](https://github.com/GogaNotClown/http-cats) - default html / css / js / using API
-- [PersonalWeb](https://github.com/GogaNotClown/PersonalWeb) - default html / css / js
+- [PersonalWeb](https://github.com/GogaNotClown/PersonalWeb) - default html / css / js - in public archive
+
+and many many many private projects...

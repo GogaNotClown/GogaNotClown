@@ -8,9 +8,8 @@
 
 ### Hi, I'm George! 👋
 
-Currently working as a **Software Engineer** at [Plypan](https://www.plypan.com/) (PHP projects & 1C).
+Currently working as a **Software Engineer** at [Plypan](https://www.plypan.com/) (doing different things here).
 I love using [JetBrains IDEs](https://www.jetbrains.com/).
-Previously, I developed Discord bots with **JavaScript** and [discord.js](https://discord.js.org/).
 
 Check out my repositories, maybe you can find something interesting!
 

@@ -17,3 +17,4 @@ Check out my repositories, maybe you can find something interesting!
 Socials:
 
 [Figma](https://figma.com/@rofl/)
+[Telegram](https://t.me/nonvoidd)

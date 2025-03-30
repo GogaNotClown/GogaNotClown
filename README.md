@@ -14,12 +14,4 @@ Currently working as a **Software Engineer** at [Plypan](https://www.plypan.com/
 I love using [JetBrains IDEs](https://www.jetbrains.com/).
 Previously, I developed Discord bots with **JavaScript** and [discord.js](https://discord.js.org/).
 
-### Public Repositories:  
-- [GogaNotClownProfile](https://github.com/GogaNotClown/GogaNotClownProfile) - VueJS + Vite.js
-- [greg_bot](https://github.com/GogaNotClown/greg_bot) - discord.js
-- [PersonalSpace](https://github.com/GogaNotClown/PersonalSpace) - TailwindCSS, daisyUI, HTML, JS
-- [accordion](https://github.com/GogaNotClown/accordion) - HTML, CSS, JS
-- [http-cats](https://github.com/GogaNotClown/http-cats) - HTML, CSS, JS, API
-- [PersonalWeb](https://github.com/GogaNotClown/PersonalWeb) - HTML, CSS, JS (Archived)
-
-And many private projects...
+Check out my repositories, maybe you can find something interesting!

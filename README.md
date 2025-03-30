@@ -13,7 +13,7 @@ I love using [JetBrains IDEs](https://www.jetbrains.com/).
 
 Check out my repositories, maybe you can find something interesting!
 
-Socials:
+**Socials:**
 
 [Figma](https://figma.com/@rofl/)
 

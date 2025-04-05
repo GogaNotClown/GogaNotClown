@@ -9,7 +9,6 @@
 ### Hi, I'm George! 👋
 
 Currently working as a **Software Engineer** at [Plypan](https://www.plypan.com/) (doing different things here).
-I love using [JetBrains IDEs](https://www.jetbrains.com/).
 
 Check out my repositories, maybe you can find something interesting!
 

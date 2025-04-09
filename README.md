@@ -1,3 +1,5 @@
+[![banner.png](https://i.postimg.cc/8PsqxwH5/banner.png)](https://postimg.cc/6yJjvrFJ)
+
 ### Hi, my name is George 👋
 
 Currently working as a **Software Engineer** at [Plypan](https://www.plypan.com/) (doing different things here).

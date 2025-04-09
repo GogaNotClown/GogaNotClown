@@ -1,4 +1,4 @@
-[![banner.png](https://i.postimg.cc/8PsqxwH5/banner.png)](https://postimg.cc/6yJjvrFJ)
+[![banner.png](https://i.postimg.cc/13wYZdN9/banner.png)](https://postimg.cc/9DXBdJpS)
 
 ### Hi, my name is George 👋
 

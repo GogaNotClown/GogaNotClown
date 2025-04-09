@@ -1,10 +1,10 @@
 [![banner.png](https://i.postimg.cc/13wYZdN9/banner.png)](https://postimg.cc/9DXBdJpS)
 
 <p>
-  <a href="https://figma.com/@rofl/" target="_blank">
+  <a href="https://figma.com/@rofl/">
     <img src="https://i.postimg.cc/QNcbC7db/figma.png alt="Figma">
   </a>
-  <a href="https://t.me/nonvoidd" target="_blank">
+  <a href="https://t.me/nonvoidd">
     <img src="https://i.postimg.cc/dVVm5SmH/tg.png" alt="Telegram">
   </a>
 </p>

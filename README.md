@@ -4,8 +4,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-070708?logo=telegram&logoColor=F3F2F0&style=for-the-badge)](https://t.me/pursuitofdreams)
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-070708?logo=spotify&logoColor=F3F2F0&style=for-the-badge)]([https://t.me/pursuitofdreams](https://open.spotify.com/playlist/2ZnlifTczb9gXXMUtEWQkG?si=f62c500d0d584ae8))
 
-### Hi, my name is George 👋
+### Hi, I'm George 👋
 
-Currently working as a **Software Engineer** at [Plypan](https://www.plypan.com/) (doing different things here).
+Software Engineer at [Plypan](https://www.plypan.com/) — building, learning, iterating.
 
-Check out my repositories, maybe you can find something interesting!
+Dive into my repos — you might just find something useful.

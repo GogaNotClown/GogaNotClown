@@ -2,7 +2,7 @@
 
 [![Figma](https://img.shields.io/badge/Figma-070708?logo=figma&logoColor=F3F2F0&style=for-the-badge)](https://figma.com/@pursuitofdreams/)
 [![Telegram](https://img.shields.io/badge/Telegram-070708?logo=telegram&logoColor=F3F2F0&style=for-the-badge)](https://t.me/pursuitofdreams)
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-070708?logo=spotify&logoColor=F3F2F0&style=for-the-badge)](https://open.spotify.com/playlist/2ZnlifTczb9gXXMUtEWQkG?si=f62c500d0d584ae8)
+[![Spotify Playlist](https://img.shields.io/badge/spotify%20playlist-070708?logo=spotify&logoColor=F3F2F0&style=for-the-badge)](https://open.spotify.com/playlist/2ZnlifTczb9gXXMUtEWQkG?si=f62c500d0d584ae8)
 
 ### Hi, I'm George 👋
 

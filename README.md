@@ -8,6 +8,7 @@ Dive into my repos — you might just find something useful.
 
 [![Figma](https://img.shields.io/badge/Figma-070708?logo=figma&logoColor=F3F2F0&style=for-the-badge)](https://figma.com/@pursuitofdreams/)
 [![Telegram](https://img.shields.io/badge/Telegram-070708?logo=telegram&logoColor=F3F2F0&style=for-the-badge)](https://t.me/pursuitofdreams)
+[![Bento](https://img.shields.io/badge/Bento-070708?logo=bento&logoColor=F3F2F0&style=for-the-badge)](https://bento.me/goganotclown)
 
 ### Other
 

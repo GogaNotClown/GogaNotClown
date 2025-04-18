@@ -1,5 +1,3 @@
-[![banner.png](https://i.postimg.cc/TPjnC2Mx/banner.png)](https://postimg.cc/v1B1msZ2)
-
 ### Hi, I'm George 👋
 
 Software Engineer at [Plypan](https://www.plypan.com/) — building, learning, iterating.

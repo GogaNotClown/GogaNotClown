@@ -14,3 +14,4 @@ Dive into my repos — you might just find something useful.
 
 [![Spotify Playlist 1](https://img.shields.io/badge/spotify%20playlist%201-070708?logo=spotify&logoColor=F3F2F0&style=for-the-badge)](https://open.spotify.com/playlist/2ZnlifTczb9gXXMUtEWQkG?si=f62c500d0d584ae8)
 [![Spotify Playlist 2](https://img.shields.io/badge/spotify%20playlist%202-070708?logo=spotify&logoColor=F3F2F0&style=for-the-badge)](https://open.spotify.com/playlist/5bThV2XJyQKIAGFJMugCpQ?si=5c3a10f91d554f7c)
+[![Spotify Playlist 3](https://img.shields.io/badge/spotify%20playlist%203-070708?logo=spotify&logoColor=F3F2F0&style=for-the-badge)](https://open.spotify.com/playlist/2alXBcX2RrU89afl2NiXwz?si=b91418dd2fc34723)
